@@ -51,14 +51,14 @@ const styles = StyleSheet.create({
   },
 
   input: {
-    height: 20
+    height: 20,
     backgroundColor: 'yellow',
-    borderRadius: 5
+    borderRadius: 5,
   },
 
   botao: {
    backgroundColor: 'red',
-   borderRadius: 5
+   borderRadius: 5,
   },
 
   botaoTexto: {
