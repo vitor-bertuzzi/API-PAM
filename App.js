@@ -47,7 +47,7 @@ const styles = StyleSheet.create({
 
   titulo: {
     fontSize: 20,
-    alignItems: 'center'
+    alignItems: 'center',
   },
 
   input: {
